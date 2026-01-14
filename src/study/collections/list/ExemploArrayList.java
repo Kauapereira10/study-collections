@@ -3,7 +3,6 @@ package study.collections.list;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.sql.rowset.serial.SQLOutputImpl;
 
 public class ExemploArrayList {
 	public static void main(String[] args) {
